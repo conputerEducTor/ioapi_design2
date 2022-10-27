@@ -1,0 +1,7 @@
+{
+  "name": "php-api-oop",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
